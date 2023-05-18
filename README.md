@@ -1,4 +1,4 @@
-<h1>Hey, I'm Chad</h1>
+<h1>Hey, I'm ChdML</h1>
 <p>Welcome to my small profile ❤</p>
 <p>I'm a developer</p>
 
